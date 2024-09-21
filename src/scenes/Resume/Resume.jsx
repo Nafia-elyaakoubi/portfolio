@@ -54,7 +54,7 @@ const Resume = () => {
           target="_blank"
         >
           <DownloadIcon fill="#fff" />
-          <span className={s.downloadText}> Télécharger </span>&nbsp&nbsp;
+          <span className={s.downloadText}> Télécharger </span>&nbsp;&nbsp;
           <span className={s.filename}> cv.pdf</span>
         </Button>
 

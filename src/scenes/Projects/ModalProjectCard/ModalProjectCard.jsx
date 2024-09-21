@@ -49,7 +49,7 @@ const ModalProjectCard = () => {
               href={links.site}
               target="_blank"
             >
-              <BiLinkExternal /> &nbsp; View project
+              <BiLinkExternal /> &nbsp; Voir le projet
             </Button>
           )}
 
@@ -60,7 +60,7 @@ const ModalProjectCard = () => {
               href={links.repo}
               target="_blank"
             >
-              <BiLinkExternal /> &nbsp; Know more
+              <BiLinkExternal /> &nbsp; Savoir plus
             </Button>
           )}
         </div>
